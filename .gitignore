@@ -1,0 +1,34 @@
+# IntelliJ IDEA
+# Directorios de salida de compilación
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+# Archivos y carpetas de configuración de IntelliJ IDEA
+.idea/
+
+# Archivos de configuración específicos de proyecto
+*.iws
+*.iml
+*.ipr
+
+# Archivos de logs generados por IntelliJ
+.idea/.idea_modules
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/gradle.xml
+.idea/libraries
+.idea/shelf
+
+# Archivos de índice y configuración de cobertura de código
+.idea/caches/
+.idea/index/
+.idea/modules/
+
+# Archivos de temporales de la base de datos (si se usa IntelliJ como IDE para bases de datos)
+.idea/.db/
+
+# Archivos y carpetas relacionados con el sistema de control de versiones integrado (VCS)
+.idea/.git/
+
